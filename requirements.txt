@@ -1,0 +1,15 @@
+langchain 
+langchain-groq
+langchain-community 
+langgraph
+yfinance
+yfinance 
+faiss-cpu 
+tiktoken 
+newspaper3k 
+pandas
+python-dotenv
+ipykernel
+torchvision
+sentence-transformers
+streamlit
